@@ -16,11 +16,11 @@
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
 
-- 🔭 I’m currently working on **Dynamic Programming**
-- 🌱 I’m currently learning **Competitive Programming**
-- 👯 I’m looking to collaborate on **data structures projects**
+- 🔭 I’m currently learning  **Dynamic Programming**
+- 🌱 I’m currently doing **Competitive Programming**
+- 👯 I’m looking to collaborate on **Data Structures Projects**
 
-- 💬 Ask me about **C++, Python and web development**
+- 💬 Ask me about **C++, Python and Web Development**
 - 📫 How to reach me: [ritikagarg60814@gmail.com], [Linkedin](https://www.linkedin.com/in/ritika-garg-b39270194/)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Something I can improve about myself is my software knowledge, which is why I am doing competitive programming.**
