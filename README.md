@@ -1,12 +1,12 @@
 ### Hi there👋,Welcome to my profile!!!
     
-<!--<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Aman Kuliyal</h1>-->
+<!--<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Ritika Garg</h1>-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Welcome+to+my+profile!&center=true&size=29">
   </a>
 </h1>
-<h3 align="center">A passionate MERN Stack Developer and Competitive Programmer from India, Frontend Designing is my pro thing!
+<h3 align="center">“Life is about learning new things and relearning old things.”
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iconic-it-is&label=Profile%20views&color=0e75b6&style=flat" alt="iconic-it-is" /> </p>
