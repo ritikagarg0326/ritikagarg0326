@@ -9,7 +9,6 @@
 <h3 align="center">“Life is about learning new things and relearning old things.”
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iconic-it-is&label=Profile%20views&color=0e75b6&style=flat" alt="iconic-it-is" /> </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
