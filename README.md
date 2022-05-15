@@ -30,3 +30,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritikagarg0326&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikagarg0326&theme=radical&show_icons=true)
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
