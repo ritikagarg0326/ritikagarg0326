@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently learning  **Devops**
 - 🌱 I’m currently doing **Competitive Programming**
-- 👯 I’m looking to collaborate on **Data Structures Projects**
+- 👯 I’m looking to collaborate on **Devops Projects**
 
 - 💬 Ask me about ** Python and Web Development**
 - 📫 How to reach me: [ritikagarg60814@gmail.com], [Linkedin](https://www.linkedin.com/in/ritika-garg-b39270194/)
