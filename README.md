@@ -19,7 +19,7 @@
 - 🌱 I’m currently doing **Competitive Programming**
 - 👯 I’m looking to collaborate on **Devops Projects**
 
-- 💬 Ask me about ** Python and Web Development**
+- 💬 Ask me about ** Devops, Cloud and Web Development**
 - 📫 How to reach me: [ritikagarg60814@gmail.com], [Linkedin](https://www.linkedin.com/in/ritika-garg-b39270194/)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Something I can improve about myself is my software knowledge, which is why I am doing competitive programming.**
