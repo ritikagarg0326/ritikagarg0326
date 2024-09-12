@@ -10,8 +10,7 @@
 <img src="<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h3>
 
 
-<img align="right" alt="GIF" src="https://community.aws/_next/image?url=https%3A%2F%2Fcommunity.aws%2Fraw-post-images%2Fconcepts%2Fdevops-essentials%2Fimages%2Fdevops_loop.jpeg%3FimgSize%3D1600x960&w=1920&q=75
-" width="480px"/>
+<img align="right" alt="GIF" src="https://community.aws/_next/image?url=https%3A%2F%2Fcommunity.aws%2Fraw-post-images%2Fconcepts%2Fdevops-essentials%2Fimages%2Fdevops_loop.jpeg%3FimgSize%3D1600x960&w=1920&q=75" width="480px"/>
 
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
