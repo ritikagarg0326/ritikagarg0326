@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🔹 **Software Developer @ Volkswagen** with **2 years of experience in DevOps & Cloud**  
-- 🔹 Skilled in **AWS, Kubernetes, Docker, CI/CD, Terraform, Linux, Python, SQL, and DevSecOps**  
+- 🔹 Skilled in **AWS, Kubernetes, Docker, CI/CD, Linux, Python, SQL, and DevSecOps**  
 - 🔹 Passionate about **automation, security, and building scalable infrastructure**  
 - 🔹 Sharing my journey & projects on [GitHub](https://github.com/ritikagarg0326) and [Hashnode](https://hashnode.com/)  
 - 🔹 Always learning new tools and contributing to **open-source projects**
