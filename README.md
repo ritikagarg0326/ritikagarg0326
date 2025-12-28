@@ -60,7 +60,6 @@
 
 ### **1. CI/CD Pipeline Project**
 - Automated deployments using **Jenkins + Docker + Kubernetes**  
-- Integrated security checks with **Trivy & SonarQube**  
 - Deployed scalable apps on **AWS EKS**  
 
 ### **2. Infrastructure as Code (Terraform)**
