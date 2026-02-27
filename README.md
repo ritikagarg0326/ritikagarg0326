@@ -1,91 +1,122 @@
 <h1 align="center">Ritika Garg</h1>
 
 <p align="center">
-DevOps Engineer | AWS | Kubernetes | CI/CD | Infrastructure & Reliability
+DevOps Engineer | AWS | Docker | Kubernetes | CI/CD | Infrastructure Reliability
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Infrastructure+Automation;CI%2FCD+Pipeline+Builder;Container+Debugging+Focused;Systems+Thinking+Mindset&center=true&width=650&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritikagarg0326&label=Profile+Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## Professional Summary
+## 👩‍💻 About Me
 
-DevOps Engineer with 2.5 years of experience working on CI/CD automation, Docker-based deployments, and AWS infrastructure support.
+DevOps Engineer with 2.5 years of experience working on containerized deployments, CI/CD automation, and AWS infrastructure.
 
-Experienced in managing build pipelines, improving deployment workflows, and troubleshooting containerized applications in development and staging environments.
+I focus on:
 
-Focused on building strong fundamentals in:
+- Building reliable containerized systems  
+- Automating build and deployment pipelines  
+- Debugging runtime container failures  
+- Understanding system behavior under stress  
+- Strengthening Kubernetes and infrastructure fundamentals  
 
-- Kubernetes internals & troubleshooting
-- Linux process and networking debugging
-- Infrastructure as Code (Terraform)
-- Observability and incident analysis
-- Production reliability practices
-
----
-
-## What I Work On
-
-- Designing and maintaining CI/CD pipelines  
-- Containerizing applications using Docker  
-- Supporting AWS infrastructure (EC2, S3, IAM, VPC basics)  
-- Debugging deployment failures and environment issues  
-- Improving release consistency and automation  
-- Strengthening system-level understanding of container behavior  
+DevOps is not about tools — it is about system behavior and reliability.
 
 ---
 
-## Selected Projects
+# 🚀 DevOps Task Manager – Unified System Flow
 
-### DevOps Task Manager
+```mermaid
+flowchart LR
 
-A containerized task management application built to demonstrate DevOps workflow integration.
+    User --> Frontend
+    Frontend --> Backend
+    Backend --> Database
+    Backend --> HealthCheck
 
-Key aspects:
-- Structured frontend and backend architecture  
-- Dockerized services for consistent environments  
-- CI pipeline integration for automated builds  
-- Deployment-ready configuration  
-- Designed to simulate real-world application lifecycle management  
+    Developer --> GitCommit
+    GitCommit --> GitHubRepo
+    GitHubRepo --> GitHubActions
+    GitHubActions --> DockerBuild
+    DockerBuild --> ContainerDeploy
+    ContainerDeploy --> Frontend
 
-Focus: Demonstrates practical CI/CD flow, containerization, and deployment readiness.
+    Backend --> Logs
+    Logs --> Debugging
+    Debugging --> Fix
+    Fix --> GitCommit
 
----
+    classDef infra fill:#1f2937,color:#ffffff
+    class Frontend,Backend,Database,HealthCheck,DockerBuild,ContainerDeploy infra
+```
 
-### DevOps Incident Simulator (Work in Progress)
+This flow represents:
 
-A VS Code extension aimed at simulating real-world DevOps failure scenarios.
-
-Core ideas:
-- Generates containerized application templates  
-- Injects controlled failure conditions  
-- Encourages hands-on debugging  
-- Focuses on understanding logs, container lifecycle, and root cause analysis  
-
-Goal: Improve practical troubleshooting and interview-level debugging skills.
-
----
-
-## Technical Stack
-
-Cloud: AWS  
-Containers: Docker, Kubernetes  
-CI/CD: Jenkins, GitHub Actions  
-Infrastructure as Code: Terraform (actively practicing)  
-Operating Systems: Linux  
-Scripting: Python, Bash  
+- Multi-service container architecture  
+- Automated CI pipeline triggered on push  
+- Docker image build and deployment lifecycle  
+- Health monitoring endpoint  
+- Log-based runtime debugging  
+- Continuous improvement through feedback loop  
 
 ---
 
-## Current Development Focus
+# 🛠 Technical Stack
 
-- Kubernetes crash debugging (CrashLoopBackOff, probe failures)  
-- Container networking issues  
-- Resource limits & performance tuning  
-- Terraform fundamentals and remote state handling  
-- Observability basics (metrics and logging concepts)  
+### ☁️ Cloud  
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+
+### 🐳 Containers & Orchestration  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+### 🔁 CI/CD  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+
+### 🏗 Infrastructure as Code  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+
+### 🖥 OS & Scripting  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 
 ---
 
-## Contact
+# 📈 GitHub Activity
 
-LinkedIn: https://www.linkedin.com/in/ritika-garg-b39270194/  
-Email: ritikagarg60814@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikagarg0326&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikagarg0326&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+# 🔥 Currently Strengthening
+
+- Kubernetes CrashLoopBackOff root cause analysis  
+- Container networking fundamentals  
+- Resource limits & cgroup behavior  
+- Terraform state management  
+- Observability and system monitoring  
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/ritika-garg-b39270194/
+
+Email:  
+ritikagarg60814@gmail.com  
+
+---
+
+> DevOps maturity begins when you understand failures, not just deployments.
