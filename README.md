@@ -90,15 +90,6 @@ This flow represents:
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikagarg0326&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikagarg0326&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
-
 # 🔥 Currently Strengthening
 
 - Kubernetes CrashLoopBackOff root cause analysis  
