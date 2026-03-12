@@ -26,7 +26,7 @@ I bridge the gap between development velocity and operational stability. With 2.
 
 ## 🛠 Technical Ecosystem
 
-<div align="center">
+<div align="left">
   
   ### ☁️ Cloud & Infrastructure
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
