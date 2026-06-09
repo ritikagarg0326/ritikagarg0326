@@ -29,7 +29,7 @@
 
 Hi there 👋  
 
-I'm **Ritika Garg**, a **DevOps Engineer with 2.5+ years of experience** passionate about building **scalable cloud infrastructure and automated deployment pipelines**.
+I'm **Ritika Garg**, a **DevOps Engineer with 3+ years of experience** passionate about building **scalable cloud infrastructure and automated deployment pipelines**.
 
 I enjoy working at the intersection of **automation, cloud platforms, container orchestration, and reliability engineering**.
 
