@@ -2,7 +2,7 @@
 
 #  Ritika Garg
 
-### DevOps Engineer ⚙️ | Cloud Infrastructure | CI/CD Automation | Kubernetes
+### DevOps Engineer | AWS | Cloud Infrastructure | CI/CD Automation | Kubernetes | Terraform
 
 <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Automating+Infrastructure;Building+Cloud+Native+Systems;Kubernetes+%7C+Docker+%7C+AWS;Scaling+Reliable+Systems&center=true&width=700&height=45&color=326CE5">
 
